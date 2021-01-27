@@ -1,5 +1,7 @@
 ## Projeto em ReactJS para mostrar informações de repositórios no Github
 
-`yarn init`
+##### Instalar as dependências do projeto
+`yarn install`
 
+##### Rodar o projeto
 `yarn start`
