@@ -1,5 +1,7 @@
 import { createGlobalStyle } from 'styled-components';
 
+import background from '../assets/images/background.svg';
+
 export default createGlobalStyle`
   * {
     margin: 0;
@@ -7,19 +9,20 @@ export default createGlobalStyle`
     outline: 0;
     box-sizing: border-box;
   }
-  html, border-style, #root {
-    min-height: 100%auto;
-  }
 
   body {
-    background: #7159c1;
-    -webkit-font-smoothing: antialiased !important;
+    background: #f3c819 url(${background}) no-repeat center top;
+    -webkit-font-smoothing: antialiased;
   }
 
   body, input, button {
-    color: #222;
-    font-size: 14px;
-    font-family: Arial, Helvetica, sans-serif;
+    font: 14px Blippo, sans-serif;
+  }
+
+  #root {
+    max-width: 1020px;
+    margin: 0 auto;
+    padding: 0 20px 50px;
   }
 
   button {

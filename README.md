@@ -1,4 +1,4 @@
-## Projeto em ReactJS para mostrar informações de repositórios no Github
+## Projeto em ReactJS para a criação de um site para reserva de minions
 
 ##### Instalar as dependências do projeto
 `yarn install`
