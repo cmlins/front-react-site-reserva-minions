@@ -1,0 +1,46 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Jonh",
+      "price": 49.9,
+      "image": "https://i.pinimg.com/originals/15/26/62/152662373b8c743a65c1ae9f42b8f8a2.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Dave",
+      "price": 49.9,
+      "image": "https://i.pinimg.com/originals/db/15/45/db154548b3b1023164ce3608887baa62.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Nana",
+      "price": 49.9,
+      "image": "https://i.pinimg.com/originals/75/10/a2/7510a2b625b9d40531c13d7a07156f15.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Rick",
+      "price": 49.9,
+      "image": "https://i.pinimg.com/originals/9a/13/56/9a13567a77cd55ffc6432f5dea43569f.png"
+    }
+  ]
+}
