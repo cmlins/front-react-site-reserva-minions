@@ -5,3 +5,8 @@
 
 ##### Rodar o projeto
 `yarn start`
+
+##### Rodar o server.json
+`json-server server.json -p 3333`
+
+
