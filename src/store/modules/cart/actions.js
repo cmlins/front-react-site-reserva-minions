@@ -34,4 +34,3 @@ export function updateAmountSuccess(id, amount) {
     amount,
   };
 }
-
